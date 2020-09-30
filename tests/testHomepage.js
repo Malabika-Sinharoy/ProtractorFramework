@@ -29,6 +29,6 @@ describe('Demo Calculator', function(){
 
         homepage.verifyResult('10');
 
-        browser.sleep(2000)
+        browser.sleep(3000)
     })
 })
